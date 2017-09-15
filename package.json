@@ -1,0 +1,42 @@
+{
+  "author": {
+    "name": "ionic"
+  },
+  "bugs": {
+    "url": "https://github.com/fontesoft/cordova-plugin-signature-fingerprint/issues"
+  },
+  "dependencies": {},
+  "description": "Ionic Native - Signature Fingerprint",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "84759882367b2ec51d37bec71c89f3ca56b95b15",
+    "size": 3831,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/@fontesoft/signature-fingerprint/download/@fontesoft/signature-fingerprint-1.0.0.tgz"
+  },
+  "homepage": "https://github.com/fontesoft/cordova-plugin-signature-fingerprint#readme",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "fontebasso",
+      "email": "sfdsilva@fontesoft.com"
+    }
+  ],
+  "module": "index.js",
+  "name": "@fontesoft/signature-fingerprint",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@ionic-native/core": "^3.6.0 || >=4.0.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "publish_time": 1503528219290,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fontesoft/cordova-plugin-signature-fingerprint.git"
+  },
+  "typings": "index.d.ts",
+  "version": "1.0.0"
+}
